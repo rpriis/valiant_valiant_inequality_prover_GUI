@@ -1,4 +1,4 @@
 matplotlib==3.8.2
 numpy==2.0.0
 pyperclip==1.8.2
-valiant_valiant_inequality_prover==1.0.2
+valiant_valiant_inequality_prover==1.0.3
